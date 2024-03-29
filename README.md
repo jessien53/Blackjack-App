@@ -1,8 +1,8 @@
 # Blackjack-App
-Introduction
+## Introduction
 This project involves creating an application for playing a game of blackjack against a computer. It utilizes JavaFX for the front end and implements a Java back end according to the specified requirements.
 
-Rules of the Game
+## Rules of the Game
 The game follows the standard rules of blackjack with the following specifications:
 
 Two players: banker and user.
